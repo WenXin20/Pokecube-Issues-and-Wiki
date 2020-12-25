@@ -1,0 +1,14 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"ctm",
+        "layer":"CUTOUT",
+        "textures":[
+            "pokecube_legends:blocks/spectrum_glass_ctm"
+        ],
+        "extra":{
+        	"ignore_states":"true",
+        	"connect_inside":"true"
+		}
+    }
+}
